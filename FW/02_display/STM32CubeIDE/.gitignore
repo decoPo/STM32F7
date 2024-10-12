@@ -1,0 +1,7 @@
+.settings
+Application
+Debug
+driverlib
+Drivers
+*.mxproject
+*.launch

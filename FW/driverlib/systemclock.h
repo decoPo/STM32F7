@@ -8,6 +8,8 @@ extern "C" {
 #include "main.h"
 
 extern void SystemClock_Config(void);
+extern void CPU_CACHE_Enable(void);
+extern void MPU_Config(void);
 
 #ifdef __cplusplus
 }
