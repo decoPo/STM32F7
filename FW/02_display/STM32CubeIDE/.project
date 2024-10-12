@@ -46,11 +46,6 @@
 			<locationURI>PARENT-2-PROJECT_LOC/driverlib/Syscall/sysmem.c</locationURI>
 		</link>
 		<link>
-			<name>Utilities/lcd_log.c</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/STM32Cube_FW_F7_V1.17.2/Utilities/Log/lcd_log.c</locationURI>
-		</link>
-		<link>
 			<name>driverlib/debug.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/driverlib/debug.c</locationURI>
